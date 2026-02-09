@@ -1,0 +1,1 @@
+Repo for practice and learning C as a side, curiosity-driven track meant to complement the main development roadmap, focusing on deeper systems understanding and personal fulfillment.
